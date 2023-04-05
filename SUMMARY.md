@@ -1,10 +1,6 @@
 # Table of contents
 
-## Network Services
-
-* [FTP 21](README.md)
-* [SSH  22](network-services/ssh-22.md)
-
-## Web
-
-* [Page 2](web/page-2.md)
+* [Grep](README.md)
+* [Credentials Brute-forcing](credentials-brute-forcing.md)
+* [Upgrading Reverse-shell](upgrading-reverse-shell.md)
+* [File Search / Con](file-search-con.md)
